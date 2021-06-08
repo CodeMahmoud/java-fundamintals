@@ -1,4 +1,4 @@
-# java-fundamintals
+# Java-Fundamintals
 
 In this Class I will be going through the Fundamentals of Java.
 
@@ -6,5 +6,5 @@ In this Class I will be going through the Fundamentals of Java.
 - Version Controls Systems
 - Software Devolpment Life Cycle
 - Software Develpment life Cycle Models
-- Lesson 1 -My First Repositroy
+- Lesson 1 - My First Repositroy
 
